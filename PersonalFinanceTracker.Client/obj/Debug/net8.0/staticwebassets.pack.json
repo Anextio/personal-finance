@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\obj\\Debug\\net8.0\\compressed\\tmh7to6iou.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PersonalFinance.styles.css",
+      "PackagePath": "staticwebassets\\PersonalFinance.styles.css"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "D:\\Projects\\PersonalFinance\\PersonalFinance\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PersonalFinance.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PersonalFinance.props",
+      "PackagePath": "build\\PersonalFinance.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PersonalFinance.props",
+      "PackagePath": "buildMultiTargeting\\PersonalFinance.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PersonalFinance.props",
+      "PackagePath": "buildTransitive\\PersonalFinance.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

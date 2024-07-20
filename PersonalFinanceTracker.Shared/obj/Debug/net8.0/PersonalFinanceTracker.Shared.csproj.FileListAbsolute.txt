@@ -1,0 +1,11 @@
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\bin\Debug\net8.0\PersonalFinanceTracker.Shared.deps.json
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\bin\Debug\net8.0\PersonalFinanceTracker.Shared.dll
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\bin\Debug\net8.0\PersonalFinanceTracker.Shared.pdb
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\obj\Debug\net8.0\PersonalFinanceTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\obj\Debug\net8.0\PersonalFinanceTracker.Shared.AssemblyInfoInputs.cache
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\obj\Debug\net8.0\PersonalFinanceTracker.Shared.AssemblyInfo.cs
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\obj\Debug\net8.0\PersonalFinanceTracker.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\obj\Debug\net8.0\PersonalFinanceTracker.Shared.dll
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\obj\Debug\net8.0\refint\PersonalFinanceTracker.Shared.dll
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\obj\Debug\net8.0\PersonalFinanceTracker.Shared.pdb
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Shared\obj\Debug\net8.0\ref\PersonalFinanceTracker.Shared.dll

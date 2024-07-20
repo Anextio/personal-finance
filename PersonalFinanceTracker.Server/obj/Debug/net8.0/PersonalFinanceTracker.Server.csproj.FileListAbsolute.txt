@@ -1,0 +1,7 @@
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Server\obj\Debug\net8.0\PersonalFinanceTracker.Server.csproj.AssemblyReference.cache
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Server\obj\Debug\net8.0\PersonalFinanceTracker.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Server\obj\Debug\net8.0\PersonalFinanceTracker.Server.AssemblyInfoInputs.cache
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Server\obj\Debug\net8.0\PersonalFinanceTracker.Server.AssemblyInfo.cs
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Server\obj\Debug\net8.0\PersonalFinanceTracker.Server.csproj.CoreCompileInputs.cache
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Server\obj\Debug\net8.0\PersonalFinanceTracker.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\PersonalFinanceTracker\PersonalFinanceTracker.Server\obj\Debug\net8.0\PersonalFinanceTracker.Server.MvcApplicationPartsAssemblyInfo.cache
